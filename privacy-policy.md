@@ -16,4 +16,4 @@ We may update our Privacy Policy in future update depends on the feature we may 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: *[xxx@email.com]*  
+Email: casel.apps@gmail.com
