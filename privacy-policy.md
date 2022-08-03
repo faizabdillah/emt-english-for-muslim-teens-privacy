@@ -10,6 +10,9 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### No Information we're collect  
 We're not collecting or tracking any data from the user, since the app is fully offline
 
+### No Adds Ever
+This app is Ad's free  
+
 ### Children’s Privacy  
 any content in our app appropriate for children
 
